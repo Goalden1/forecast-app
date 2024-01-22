@@ -80,17 +80,19 @@ font-weight: 500px;
 }
 .forecast-app-temperature-value {
   font-size: 88px;
-  margin-left: 10px;
+ 
+  line-height: 88px;
   font-weight: bold;
 
 }
 .forecast-app-icon {
-  font-size: 40px;
-  margin-top: 16px;
+  width: 88px;
+  height: 88px;
+  
 }
 
 .forecast-app-unit {
-margin-top: 20px;
+margin-top: 6px;
 font-size: 28px;
 font-weight: bold;
 
